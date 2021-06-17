@@ -46,11 +46,21 @@
         "tilemapTile": true,
         "displayName": "serpent vert"
     },
+
+
     "tile8": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIg8AIiIPIiJy8iAiIiIiIiLyIA8iIg8icvIAAAAAACAiDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "serpent rouge"
+
+    "tile9": {
+        "data": "hwQQABAAAAAAAFBVVVUFAABQVeXu7gUAAFDu5e7uBQAAUO7l7u4FAABQ7uXu7gUAAFDu5e7uBQAAUO5VVe4FAABQ5fVf7gUAAFDuVVXuBQAAUO7l7u4FAABQ7uXu7gUAAFDu5e7uBQAAUO7l7u4FAABQ7uXu7gUAAFBV5e7uBQAAAFBVVVUFAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "coffre"
+
+
     },
     "level1": {
         "id": "level1",
