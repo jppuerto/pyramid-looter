@@ -1,5 +1,5 @@
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.doorOpenNorth, function (sprite, location) {
-    tiles.setTilemap(tilemap`level2`)
+    tiles.setTilemap(tilemap`labyrinthe1`)
     mySprite.setPosition(125, 250)
 })
 let mySprite: Sprite = null
