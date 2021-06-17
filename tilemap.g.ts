@@ -95,11 +95,11 @@ namespace myTiles {
             case "tile3":return tile3;
             case "eau":
             case "tile5":return tile5;
-            case "myTile4":
+            case "serpent rouge":
             case "tile8":return tile8;
-            case "myTile2":
+            case "serpent vert":
             case "tile6":return tile6;
-            case "myTile3":
+            case "piece":
             case "tile7":return tile7;
         }
         return null;
