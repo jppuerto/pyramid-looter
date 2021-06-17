@@ -47,6 +47,7 @@
         "displayName": "serpent vert"
     },
 
+
     "tile8": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIg8AIiIPIiJy8iAiIiIiIiLyIA8iIg8icvIAAAAAACAiDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -58,6 +59,7 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "coffre"
+
 
     },
     "level1": {
