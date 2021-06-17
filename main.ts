@@ -1,5 +1,6 @@
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.doorOpenNorth, function (sprite, location) {
     tiles.setTilemap(tilemap`level2`)
+    effects.blizzard.endScreenEffect()
     mySprite.setPosition(125, 250)
 })
 let mySprite: Sprite = null
@@ -33,4 +34,4 @@ scene.cameraFollowSprite(mySprite)
 controller.moveSprite(mySprite)
 mySprite.setPosition(0, 220)
 tiles.setTilemap(tilemap`entrée pyramide`)
-effects.blizzard.startScreenEffect(2000)
+effects.blizzard.startScreenEffect(100000000)
