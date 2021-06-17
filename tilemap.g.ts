@@ -1,4 +1,4 @@
-// Code généré automatiquement. Ne pas modifier.
+// Auto-generated code. Do not edit.
 namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const transparency16 = image.ofBuffer(hex``);
@@ -18,6 +18,8 @@ namespace myTiles {
     export const tile7 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile6 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile9 = image.ofBuffer(hex``);
 
     helpers._registerFactory("tilemap", function(name: string) {
         switch(helpers.stringTrim(name)) {
@@ -158,9 +160,11 @@ namespace myTiles {
             case "tile7":return tile7;
             case "serpent vert":
             case "tile6":return tile6;
+            case "coffre":
+            case "tile9":return tile9;
         }
         return null;
     })
 
 }
-// Code généré automatiquement. Ne pas modifier.
+// Auto-generated code. Do not edit.
