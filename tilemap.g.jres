@@ -34,6 +34,12 @@
         "tilemapTile": true,
         "displayName": "eau"
     },
+    "tile6": {
+        "data": "hwQQABAAAADMzMzMzMzMzMzMzLzMzMzMzMvMzMzMvMzMzMzMzMzMzMzMzMzMzMzMzMzMzLx8d8zMd3fMd3cnx3x3d3d3d3fHfMx3d8d3J8e8zMzMzHx3zMzMzMzMzMzMzMy8zLzMzMzMzMzMzMzMzMzMzMzMzLzMvMzMzMzMzMzMzMzMzMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile2"
+    },
     "level1": {
         "id": "level1",
         "mimeType": "application/mkcd-tilemap",
