@@ -48,3 +48,4 @@ let mySprite2 = sprites.create(img`
     ....................
     `, SpriteKind.Food)
 tiles.setTilemap(tilemap`entrée pyramide`)
+effects.blizzard.startScreenEffect(5000)
